@@ -1,3 +1,5 @@
+// This file contains code describing the functionalities of the several localStorage methods
+
 // 1. Store item in localStorage
 window.localStorage.setItem('Python', 'Guido van Rossum');
 const student = {
